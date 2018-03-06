@@ -1,2 +1,1 @@
-# fe-questions
-some questions about frontend
+#一些前端面试题
