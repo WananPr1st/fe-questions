@@ -2,7 +2,7 @@
 
 ### js相关
 
-1. [js中this指向](.js/js中this指向.md)
+1. [js中this指向](./js/js中this指向.md)
 
 
 
